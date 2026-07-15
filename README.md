@@ -2,7 +2,7 @@
 
 # 🧪 Software Testing and Quality Assurance (STQA)
 
-Welcome to the **Software Testing and Quality Assurance (STQA)** practical repository. This repository contains practical exercises, testing documents, and quality assurance artifacts developed as part of the **Software Testing and Quality Assurance (STQA)** course.
+Welcome to the **Software Testing and Quality Assurance (STQA)** practical repository. This repository contains practical exercises, testing documents, and quality assurance artifacts developed as part of the **Software Testing and Quality Assurance (STQA)**.
 
 It demonstrates the software testing process from **requirement analysis** to **test case design**, **test execution**, and **defect reporting**. This repository serves as a learning resource for students and beginners interested in manual software testing and quality assurance.
 
