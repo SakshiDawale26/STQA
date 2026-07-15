@@ -125,9 +125,3 @@ Contributions, suggestions, and improvements are welcome. Feel free to fork this
 **DYPCOEI (SPPU)**
 
 ---
-
-## ⭐ Support
-
-If you found this repository helpful, please consider giving it a **Star ⭐**. Your support is appreciated!
-
----
